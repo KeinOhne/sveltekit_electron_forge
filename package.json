@@ -4,6 +4,8 @@
 	"private": true,
 	"scripts": {
 		"to_electron": "node to_electron.js",
+		"electron_start": "npm --prefix ./electron run start",
+		"electron_make": "npm --prefix ./electron run make",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
