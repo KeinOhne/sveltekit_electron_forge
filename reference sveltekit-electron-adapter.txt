@@ -1,0 +1,1 @@
+https://github.com/ptkdev/sveltekit-electron-adapter?tab=readme-ov-file#-setup
